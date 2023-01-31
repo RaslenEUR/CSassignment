@@ -10,4 +10,4 @@ In cell 4 the hashing is done and the signature matrix is given as output
 
 In cell 5 LSH is done on the signature matrix and candidate pairs are given as output
 
-In cell 6 performance metrics are researched (incomplete)
+In cell 6 the functions used are defined
